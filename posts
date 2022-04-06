@@ -1,0 +1,9 @@
+const post = () => {
+    return ( 
+        <h1>
+            Let's go boy, you running this shit
+        </h1>
+     );
+}
+ 
+export default post;
